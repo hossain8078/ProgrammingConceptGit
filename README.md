@@ -4,6 +4,8 @@ My Java coursework from COMP 233, Semester 2 of the Business Information Systems
 
 **Author:** Md Alamgir Hossain, PMP, CSM, ITIL v5 · [LinkedIn](https://www.linkedin.com/in/alamgircanb) · [pmport.ca](https://pmport.ca)
 
+https://gitdiagram.com/hossain8078/programmingconceptgit#course-map
+
 ## Repository structure
 
 ```text
